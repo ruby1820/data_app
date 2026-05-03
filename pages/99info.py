@@ -28,7 +28,7 @@ st.markdown("---")
 st.markdown("""
 <div style="font-size:16px; line-height:1.8;">
 📧 <b>Email:</b> <a href="mailto:alroby5200@gmail.com">alroby5200@gmail.com</a><br>
-📞 <b>Phone:</b> +20 106 389 4392<br>
+📞 <b>Phone:</b> +20 106 476 4317<br>
 🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/mohamed-ruby-8a3582253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">Mohamed Ruby</a><br>
 🏠 <b>Address:</b> Egypt - Cairo
 </div>
